@@ -10,3 +10,6 @@
 
 在本次测试中，我首先计算出因子数值，然后使用Fama-MacBeth回归、分组收益率以及单因子策略评价每个因子的效果。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=6YoungHome/Moderate-risk-model&type=Date)](https://star-history.com/#6YoungHome/Moderate-risk-model&Date)
